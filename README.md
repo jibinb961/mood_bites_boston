@@ -2,4 +2,4 @@
 AI project on recommendation system.
 
 Co Author :  [Dennis Mathew Jose](https://github.com/dennismathewjose) <br>
-Google Docs : [Documentation](https://docs.google.com/document/d/e/2PACX-1vTNLv-UsLToHtD0IBEU0wctP4IqZ-WqaiNO2oN81jWF0YjmVuZC01WSwp-lPQ3s_0FuqDCNKlou0P8N/pub)
+Google Docs : [Documentation](https://docs.google.com/document/d/1rQM9ynZcYknUt4lIm6Hc6zEITZGOTb49bMUflO0V2l0/edit?usp=sharing)
